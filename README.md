@@ -3,7 +3,7 @@
 
 ## Setup
 
-This project uses a webcam to stream video. Before running the code, make sure to configure webcam on your device.
+This project uses a webcam to stream video. Before running the code, make sure to configure the webcam on your device.
 
 
 ## Installing Dependencies
@@ -41,4 +41,4 @@ Visit `<raspberrypi_ip>:5000` in your browser to view the stream.
 
 ## Credit
 
-This repository is a modified version of [Smart-Security-Camera](https://github.com/jacobschwantes/Smart-Security-Camera)
+This repository is a modified version of [Smart-Security-Camera](https://github.com/HackerShackOfficial/Smart-Security-Camera)
